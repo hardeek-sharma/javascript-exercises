@@ -3,7 +3,7 @@ const repeatString = function(string, num) {
     return `ERROR`;
   }
 
-
+  
 };
 
 // Do not edit below this line
